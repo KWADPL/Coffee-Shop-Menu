@@ -12,8 +12,23 @@
     padding: 20px;
     border-radius: 30px;
 }
+.menu-item{
+    display:block;
+    text-decoration: none;
+    font-size: 18px;
+}
+body{
+    font-family: 'Helvetica', sans-serif;
+}
+.coffee-image{
+    width: 20%;
+    margin-right: 20px;
+    margin-top: 15px;
+    position: relative;
+    z-index: 2;
+    float: right;
 
-
+}
 
 
 
